@@ -1,0 +1,23 @@
+{
+    "reduceInertia": true,
+    "keyboardShowGreet": true,
+    "joystickShowGreet": true,
+    "keyboardFirstGreet": true,
+    "joystickFirstGreet": true,
+    "keyboardShowHints": true,
+    "joystickShowHints": true,
+    "keyboardIgnoreVersion": 7,
+    "joystickIgnoreVersion": 0,
+    "noticeTimes": 6,
+    "noticeHash": 3562635081,
+    "resolutionRelatives": {
+        "1600x900": {
+            "keyboardId": "com.garena.game.kgvn_1600x900(Valhein).kmp",
+            "joystickId": ""
+        },
+        "1900x960": {
+            "keyboardId": "com.garena.game.kgvn_1900x960(Zuka).kmp",
+            "joystickId": ""
+        }
+    }
+}
