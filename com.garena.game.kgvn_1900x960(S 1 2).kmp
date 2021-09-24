@@ -82,33 +82,6 @@
             }
         },
         {
-            "class": "ClassKeyboardCurve",
-            "data": {
-                "key": 9,
-                "secondKey": 0,
-                "curve": [
-                    {
-                        "x": 9298,
-                        "y": 423,
-                        "timing": 0
-                    },
-                    {
-                        "x": 9298,
-                        "y": 423,
-                        "timing": 87
-                    }
-                ],
-                "extraData": "",
-                "description": "",
-                "moreDescription": "",
-                "hintVisible": true,
-                "hintOffset": {
-                    "x": 0,
-                    "y": 0
-                }
-            }
-        },
-        {
             "class": "ClassMouseMDisc",
             "data": {
                 "key": 2,
@@ -125,33 +98,6 @@
                 "description": "",
                 "moreDescription": "",
                 "extraData": "",
-                "hintVisible": true,
-                "hintOffset": {
-                    "x": 0,
-                    "y": 0
-                }
-            }
-        },
-        {
-            "class": "ClassKeyboardCurve",
-            "data": {
-                "key": 68,
-                "secondKey": 0,
-                "curve": [
-                    {
-                        "x": 6935,
-                        "y": 8973,
-                        "timing": 0
-                    },
-                    {
-                        "x": 6935,
-                        "y": 8973,
-                        "timing": 79
-                    }
-                ],
-                "extraData": "",
-                "description": "",
-                "moreDescription": "",
                 "hintVisible": true,
                 "hintOffset": {
                     "x": 0,
@@ -228,43 +174,6 @@
                         "x": 8449,
                         "y": 9118,
                         "timing": 79
-                    }
-                ],
-                "extraData": "",
-                "description": "",
-                "moreDescription": "",
-                "hintVisible": true,
-                "hintOffset": {
-                    "x": 0,
-                    "y": 0
-                }
-            }
-        },
-        {
-            "class": "ClassKeyboardCurve",
-            "data": {
-                "key": 84,
-                "secondKey": 0,
-                "curve": [
-                    {
-                        "x": 9591,
-                        "y": 7162,
-                        "timing": 0
-                    },
-                    {
-                        "x": 9597,
-                        "y": 7162,
-                        "timing": 55
-                    },
-                    {
-                        "x": 9603,
-                        "y": 7150,
-                        "timing": 63
-                    },
-                    {
-                        "x": 9603,
-                        "y": 7150,
-                        "timing": 64
                     }
                 ],
                 "extraData": "",
@@ -364,32 +273,6 @@
             }
         },
         {
-            "class": "ClassMouseDisc",
-            "data": {
-                "key": 81,
-                "type": 0,
-                "castMode": 1,
-                "waitRelease": true,
-                "noDirection": false,
-                "syntropyMove": false,
-                "synchronousMove": false,
-                "origin": {
-                    "x": 7726,
-                    "y": 8767
-                },
-                "radius": 850,
-                "indicatorRadius": 1943,
-                "description": "",
-                "moreDescription": "",
-                "hintVisible": true,
-                "hintOffset": {
-                    "x": 0,
-                    "y": 0
-                },
-                "extraData": ""
-            }
-        },
-        {
             "class": "ClassKeyboardCurve",
             "data": {
                 "key": 52,
@@ -445,18 +328,216 @@
         {
             "class": "ClassKeyboardCurve",
             "data": {
+                "key": 9,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9448,
+                        "y": 402,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9448,
+                        "y": 402,
+                        "timing": 87
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 84,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9620,
+                        "y": 7123,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9626,
+                        "y": 7123,
+                        "timing": 55
+                    },
+                    {
+                        "x": 9632,
+                        "y": 7111,
+                        "timing": 63
+                    },
+                    {
+                        "x": 9632,
+                        "y": 7111,
+                        "timing": 64
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 154,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 1789,
+                        "y": 3869,
+                        "timing": 0
+                    },
+                    {
+                        "x": 1789,
+                        "y": 3869,
+                        "timing": 95
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 192,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8750,
+                        "y": 452,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8750,
+                        "y": 452,
+                        "timing": 96
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 13,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9708,
+                        "y": 3844,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9708,
+                        "y": 3844,
+                        "timing": 119
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
                 "key": 69,
                 "secondKey": 0,
                 "curve": [
                     {
-                        "x": 9220,
+                        "x": 9181,
                         "y": 5842,
                         "timing": 0
                     },
                     {
-                        "x": 9220,
+                        "x": 9181,
                         "y": 5842,
-                        "timing": 72
+                        "timing": 79
+                    }
+                ],
+                "extraData": "",
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 81,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "syntropyMove": false,
+                "synchronousMove": false,
+                "origin": {
+                    "x": 7709,
+                    "y": 8807
+                },
+                "radius": 849,
+                "indicatorRadius": 1941,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                },
+                "extraData": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 68,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 6904,
+                        "y": 8932,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6904,
+                        "y": 8932,
+                        "timing": 86
                     }
                 ],
                 "extraData": "",
